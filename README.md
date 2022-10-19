@@ -1,1 +1,1 @@
-# final-project-golang-hacktiv8
+# OPEN MASTER BRANCH to see the project
